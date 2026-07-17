@@ -1,0 +1,21 @@
+{
+  "appName": "QuennectVPN",
+  "packageName": "com.quennect.vpn",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "minSdkVersion": 21,
+  "targetSdkVersion": 35,
+  "description": "A VPN app for Android providing secure and private internet access.",
+  "github": {
+    "repo": "startech04/QuennectVPN",
+    "releaseUrl": "https://github.com/startech04/QuennectVPN/releases/latest"
+  },
+  "permissions": [
+    "INTERNET",
+    "ACCESS_NETWORK_STATE",
+    "FOREGROUND_SERVICE",
+    "FOREGROUND_SERVICE_SPECIAL_USE",
+    "BIND_VPN_SERVICE",
+    "POST_NOTIFICATIONS"
+  ]
+}
