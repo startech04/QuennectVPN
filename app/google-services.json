@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917081148123",
+    "project_id": "quennect-98011",
+    "storage_bucket": "quennect-98011.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917081148123:android:76dcc732a1161148aa9afe",
+        "android_client_info": {
+          "package_name": "com.quennect.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917081148123-5kqapolqhjcp8oe5rjitlgosuh9bk67r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quennect.vpn",
+            "certificate_hash": "5df574df3f0f34c65dd5036e23ea727d785e20f8"
+          }
+        },
+        {
+          "client_id": "917081148123-kdk1hbn6ii0lpei8n5bmkokla9g1j3q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_05-I9h0dsqyXPWP6mxOcf2_q7DB4aeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917081148123-kdk1hbn6ii0lpei8n5bmkokla9g1j3q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
