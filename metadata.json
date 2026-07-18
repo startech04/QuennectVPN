@@ -1,8 +1,8 @@
 {
   "appName": "QuennectVPN",
   "packageName": "com.quennect.vpn",
-  "versionName": "1.0.0.1",
-  "versionCode": 2,
+  "versionName": "1.0.0.2",
+  "versionCode": 3,
   "minSdkVersion": 24,
   "targetSdkVersion": 34,
   "apkUrl": "https://github.com/startech04/QuennectVPN/releases/download/latest/app-release.apk",
