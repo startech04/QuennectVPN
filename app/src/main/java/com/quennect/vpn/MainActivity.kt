@@ -59,7 +59,7 @@ class MainActivity : ComponentActivity() {
         val currentVersion = try {
             packageManager.getPackageInfo(packageName, 0).versionName
         } catch (e: Exception) {
-            "1.0.0.2"
+            "1.0.0.1"
         }
         logs.add("[SYSTEM] Quennect v$currentVersion initialized")
 
@@ -85,7 +85,7 @@ class MainActivity : ComponentActivity() {
             val currentVersionName = try {
                 packageManager.getPackageInfo(packageName, 0).versionName
             } catch (e: Exception) {
-                "1.0.0.2"
+                "1.0.0.1"
             }
 
             if (!checking && info != null && info.updateAvailable) {

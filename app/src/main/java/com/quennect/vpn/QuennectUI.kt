@@ -220,7 +220,7 @@ fun UpdateRequiredScreen(
 @Composable
 fun QuennectApp(
     logs: List<String>,
-    versionName: String = "1.0.0.2",
+    versionName: String = "1.0.0.1",
     userName: String? = null,
     signInLoading: Boolean = false,
     signInError: String? = null,
